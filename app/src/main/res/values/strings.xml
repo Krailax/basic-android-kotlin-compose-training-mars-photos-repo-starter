@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Foto de Marte </string>
+    <string name="loading_failed">
+Falló al cargar</string>
+    <string name="retry">Reintentar</string>
+    <string name="loading">Cargando</string>
+    <string name="placeholder_success">Texto del marcador</string>
+    <string name="mars_photo">Foto de Marte</string>
+</resources>
